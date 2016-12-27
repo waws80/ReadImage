@@ -1,4 +1,4 @@
-package thanatos.readimagefromlocal.utils;
+package thanatos.readimagefromlocal;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -15,6 +15,9 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.lang.ref.WeakReference;
+
+import thanatos.readimagefromlocal.utils.DateUtils;
+import thanatos.readimagefromlocal.utils.MiPictureHelper;
 
 /**
  * Created on 2016/12/27.

@@ -1,4 +1,4 @@
-package thanatos.readimagefromlocal.utils;
+package thanatos.readimagefromlocal;
 
 import android.graphics.BitmapFactory.Options;
 import android.util.DisplayMetrics;
